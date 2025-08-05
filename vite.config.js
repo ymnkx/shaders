@@ -1,4 +1,5 @@
 export default {
+  base: '/shaders/',
   root: 'src/',
   publicDir: '../static/',
   server: {
